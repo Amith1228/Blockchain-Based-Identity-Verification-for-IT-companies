@@ -140,7 +140,7 @@ The smart contracts were deployed using:
 
 * Remix IDE
 * Solidity Compiler (0.8.x)
-* Injected Provider(Meta Mask)
+* Injected Provider (Metamask)
 * Sepolia Test Network
 
 ---
