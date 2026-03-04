@@ -179,5 +179,11 @@ The system emits events for tracking actions:
 * Better UI for companies and universities
 * Multi-signature verification
 
+# Team Members
+
+- Member 1 – Amith AN
+- Member 2 – Jaisurya N
+- Member 3 – Mithun M
+- Member 4 – Paartha K
 
 
