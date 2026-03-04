@@ -1,6 +1,6 @@
 # Blockchain-Based-Identity-Verification-for-IT-companies
 
-# Blockchain Employee Verification System
+
 
 This project is a **blockchain-based employee profile and document verification system** built using **Solidity** and deployed on the **Sepolia Test Network** using **Remix IDE**.
 
