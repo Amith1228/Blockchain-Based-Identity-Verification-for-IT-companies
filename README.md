@@ -181,7 +181,3 @@ The system emits events for tracking actions:
 
 ---
 
-# Author
-
-Blockchain Smart Contract Project
-Built using Solidity and Ethereum Testnet.
