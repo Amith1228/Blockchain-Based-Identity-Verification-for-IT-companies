@@ -179,5 +179,5 @@ The system emits events for tracking actions:
 * Better UI for companies and universities
 * Multi-signature verification
 
----
+
 
